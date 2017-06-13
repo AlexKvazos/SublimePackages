@@ -1,0 +1,5 @@
+{
+  "cmd": ["node", "$file"],
+  "selector": "source.js",
+  "path": "/Users/alex/.config/fnm/bin/"
+}
