@@ -8,7 +8,7 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "load/save",
+		"lint_mode": "background",
 		"linters":
 		{
 			"eslint_d":
@@ -101,11 +101,11 @@
 			"yaml (yarn)": "yaml"
 		},
 		"tooltip_fontsize": "1rem",
-		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Inline/Inline.tooltip-theme",
+		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
 		"tooltip_theme_excludes":
 		[
 		],
-		"tooltips": true,
+		"tooltips": false,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}

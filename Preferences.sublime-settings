@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/User/SublimeLinter/oceanic-next (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -13,7 +13,7 @@
 		"dist"
 	],
 	"font_face": "Operator Mono",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -27,6 +27,8 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"margin": 2,
+	"monokai_pro_highlight_open_folders": true,
+	"monokai_pro_small_scrollbar": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
@@ -35,7 +37,8 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"word_wrap": false
