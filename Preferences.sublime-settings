@@ -12,8 +12,8 @@
 		"node_modules",
 		"dist"
 	],
-	"font_face": "Operator Mono",
-	"font_size": 13,
+	"font_face": "Operator Mono Book",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
